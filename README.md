@@ -1,3 +1,3 @@
 # scratch
 
-Yoda: test repo, this is
+Yoda says "test repo, this is"
